@@ -1,0 +1,13 @@
+{
+    "trading_name": "",
+    "description": "",
+    "company_size": "",
+    "category": "",
+    "bvn": "",
+    "nimc": "",
+    "website": "",
+    "legal_business_name": "",
+    "registration_type": "",
+    "business_type": ""
+}
+

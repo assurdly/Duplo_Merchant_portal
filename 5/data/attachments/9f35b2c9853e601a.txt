@@ -1,0 +1,1 @@
+{"data":{},"errors":{"start":"send_money_fee.band[0].start must be a number","end":"send_money_fee.band[0].end must be a number","fee":"send_money_fee.band[0].fee must be a number"},"message":"Invalid requests"}

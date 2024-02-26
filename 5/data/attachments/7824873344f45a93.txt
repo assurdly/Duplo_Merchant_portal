@@ -1,0 +1,17 @@
+{
+    "business_id": "0f639365-554b-4788-ad71-dcd8fa67acc4",
+    "preference_id": "null",
+    "email": [
+        "ereoluwa@yopmail.com"
+    ],
+    "email_report": {
+        "is_enabled": true,
+        "frequency": [
+            "weekly"
+        ],
+        "receivers": [
+            "ereoluwa@yopmail.com",
+            "ereoluwa@yopmail.com"
+        ]
+    }
+}
