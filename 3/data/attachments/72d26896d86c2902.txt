@@ -1,0 +1,9 @@
+{
+  "business_id":"49f1813e-c449-4846-80e7-5f644b9426c3",
+  "amount": 300,
+  "payment_date": "",
+  "account_ref": {
+      "id": "562555f2-8cde-4ce9-8203-0363922537a4",
+      "name": "Asset.Bank.Business Bank Account"
+    }
+}

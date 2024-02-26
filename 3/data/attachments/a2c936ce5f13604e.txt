@@ -1,0 +1,1 @@
+{"data":{},"errors":{"max":"send_money_fee.percentage.max must be a number","min":"send_money_fee.percentage.min must be a number","value":"send_money_fee.percentage.value must be a number"},"message":"Invalid requests"}

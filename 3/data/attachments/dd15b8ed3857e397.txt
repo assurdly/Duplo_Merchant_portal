@@ -1,0 +1,1 @@
+{"data":{},"errors":{"bank_name":"Bank name is not allowed to be empty","bank_code":"Bank code is not allowed to be empty","account_name":"Account name is not allowed to be empty","account_number":"Account number is not allowed to be empty","business_id":"Business id is not allowed to be empty"},"message":"Invalid requests"}

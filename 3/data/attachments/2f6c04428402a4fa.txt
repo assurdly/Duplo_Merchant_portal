@@ -1,0 +1,7 @@
+{
+  "type": "slack",
+  "params": {
+    "channel": "dev_staging_test_slack_channel",
+    "message": "Mic check"
+  }
+}

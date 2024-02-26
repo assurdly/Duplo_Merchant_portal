@@ -1,0 +1,21 @@
+{
+  "type": "email",
+  "params": {
+    "receiver_email": [
+      {
+        "email": "alindavidsin@yopmail.com"
+      }
+    ],
+    "event": "transaction",
+    "data": {
+        "name": "David Igbigbi",
+        "transactionAmount": "3,000",
+        "transactionDate": "2020-05-04",
+        "accountName": "Benedict",
+        "transactionType": "credit",
+        "accountNumber": "0060094237",
+        "description": "description",
+        "accountBalance": "42,000"
+    }
+  }
+}
