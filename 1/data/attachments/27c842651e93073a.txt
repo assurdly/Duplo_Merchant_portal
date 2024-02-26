@@ -1,0 +1,1 @@
+{"data":{"pinId":"a2d05eb3-2a1b-4764-af27-d34c20611b46","verified":"Expired","msisdn":"2348068487824","status":400},"errors":{},"message":"Successfully verified the OTP"}

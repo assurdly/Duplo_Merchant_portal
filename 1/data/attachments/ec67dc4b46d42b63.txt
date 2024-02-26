@@ -1,0 +1,53 @@
+{
+    "business_id": "",
+    "email": [
+        ""
+    ],
+    "email_report": {
+        "is_enabled": true,
+        "frequency": [
+            "daily",
+            "weekly"
+        ],
+        "receivers": [
+            "",
+            ""
+        ]
+    },
+    "invoice_reminders": {
+        "is_enabled": true
+    },
+    "widthdraw_to_master_wallet": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "va_inflow": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "single_use_va_inflow": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "send_money": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "wallet_created": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "payout_otp": {
+        "is_enabled": false,
+        "phone_number": "",
+        "email": {
+            "is_enabled": true,
+            "email": ""
+        }
+    }
+}

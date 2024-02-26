@@ -1,0 +1,8 @@
+{
+    "user_id": "fbade458-7728-4087-b9d5-69282070cb5b",
+    "merchant_id": "fbade458-7728-4087-b9d5-69282070cb5b",
+    "business_id": "0f639365-554b-4788-ad71-dcd8fa67acc4",
+    "role_id": null,
+    "phone_number": "08060968939",
+    "dial_code": "+234"
+}

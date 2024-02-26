@@ -1,0 +1,12 @@
+{
+    "first_name": "Pessey",
+    "last_name": "Kohne",
+    "email": "pesseyjones@yopmail.com",
+    "phone_number": "9099889900",
+    "dial_code": "+234",
+    "password": "Test123450",
+    "confirm_password": "Test123450",
+    "trading_name": "Go gold int'l",
+    "is_business_registered": false,
+    "account_process_management": "manually"
+}

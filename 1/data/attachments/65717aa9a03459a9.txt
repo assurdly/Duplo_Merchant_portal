@@ -1,0 +1,7 @@
+{
+    "amount": "1",
+    "sender_ref": "wal_EfI9D1J29CJ1",
+    "receiver_ref": "wal_EfI9D1J29CJ1",
+    "description": "",
+    "business_id": "0f639365-554b-4788-ad71-dcd8fa67acc4"
+}

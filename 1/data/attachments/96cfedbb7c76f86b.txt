@@ -1,0 +1,1 @@
+{"message":"Bills fetched successfully","data":{"data":[],"meta":{"page":1,"limit":20,"previousPage":false,"nextPage":false,"pageCount":0,"total":0}}}

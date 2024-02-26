@@ -1,0 +1,1 @@
+{"data":{},"errors":{"monthly_budget":"Monthly budget must be a number"},"message":"Invalid requests"}
