@@ -1,0 +1,6 @@
+{
+    "webhook_url": "https://webhook.site/a1b47ab8-997a-4c2a-83ab-0ead42614e7f",
+    "callback_url": "https://webhook.site/a1b47ab8-997a-4c2a-83ab-0ead42614e7f",
+    "verify_hash": "6F4B78A8889644E5BB941015BC08D44FUAMCAJ.948249SJHE",
+    "services": ["virtual-account"]
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "phone_number": "",
+    "business_id": "c3d686e2-f611-4c95-ae54-53a435f29514",
+    "bvn": "",
+    "expand": true
+}

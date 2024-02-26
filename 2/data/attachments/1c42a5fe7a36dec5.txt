@@ -1,0 +1,1 @@
+{"data":{},"errors":{},"message":"Batch was deleted successfully"}

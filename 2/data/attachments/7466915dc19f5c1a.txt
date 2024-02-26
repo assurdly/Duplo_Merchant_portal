@@ -1,0 +1,9 @@
+{
+    "alias": "Collin",
+    "managers": [
+        
+    ],
+    "business_id": "0f639365-554b-4788-ad71-dcd8fa67acc4",
+    "monthly_budget": 3000,
+    "allow_payout_when_limit_is_exceeded": true
+}

@@ -1,0 +1,1 @@
+{"data":{"transaction_ref":"tran_ElsWRgALeIRO"},"errors":{},"message":"Transaction request successful"}
