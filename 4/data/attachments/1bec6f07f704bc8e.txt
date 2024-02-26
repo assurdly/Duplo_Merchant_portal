@@ -1,0 +1,5 @@
+{
+  "business_id":"49f1813e-c449-4846-80e7-5f644b9426c3",
+  "amount": 300,
+  "payment_date": "2023-06-05"
+}

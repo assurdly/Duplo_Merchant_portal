@@ -1,0 +1,7 @@
+{
+    "monthly_budget": "759",
+    "managers": [],
+    "business_id": "1cdb19eb-9d26-4968-b142-116b030a4687",
+    "expense_account_ref": "exp_coJ9FSyeCI1Q",
+    "allow_payout_when_limit_is_exceeded": false
+}

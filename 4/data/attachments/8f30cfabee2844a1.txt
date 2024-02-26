@@ -1,0 +1,1 @@
+{"data":{},"errors":{"0":"receivers is not allowed to be empty","1":"receivers is not allowed to be empty","business_id":"Business id is not allowed to be empty","receivers":"email_report.receivers does not contain [receivers]","phone_number":"Phone number is not allowed to be empty","email":"Email for payout_otp is not allowed to be empty"},"message":"Invalid requests"}

@@ -1,0 +1,1 @@
+{"data":{},"errors":{"recipient_account_number":"Beneficiary account number length must be 10 characters long"},"message":"Invalid requests"}
