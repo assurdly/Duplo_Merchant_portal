@@ -1,4 +1,4 @@
-name: Postman Test and Allure Report for Naira Compare
+name: Postman Test and Allure Report for Duplo merchant
 
 on:
   push:
