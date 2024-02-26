@@ -1,0 +1,1 @@
+{"data":{},"errors":{"fixed":"fees.wallet_issuance_fee.fixed must be a number"},"message":"Invalid requests"}

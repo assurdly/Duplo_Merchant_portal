@@ -1,0 +1,11 @@
+{
+    "business_id": "a1743536-e5e4-40fc-bd12-78a3de28677d",
+    "customer_ref": "cus_zVcFsNiJ52jB",
+    "preferred_banks": [
+        { 
+            "bank_code": "111", 
+            "bank_name": "Wema Bank", 
+            "id": "wema" 
+        }
+    ]
+}

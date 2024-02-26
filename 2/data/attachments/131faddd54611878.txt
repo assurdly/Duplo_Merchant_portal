@@ -1,0 +1,9 @@
+{
+    "first_name": "Stamp",
+    "last_name": "Duty",
+    "email": "stampdutyopmail.com",
+    "phone_number": "08052290968",
+    "business_id": "c3d686e2-f611-4c95-ae54-53a435f29514",
+    "bvn": "",
+    "expand": true
+}

@@ -1,0 +1,20 @@
+{
+    "initiator_id": "1040c842-87bc-42e3-b836-1a9f489d51ee",
+    "type": "single_immediate_payout",
+    "business_id": "7f41a102-ebbb-4e2e-b473-abe23411b218",
+    "data": {
+        "meta": {
+            "truck_no": "F-AHHS",
+            "purchase_no": "402001"
+        },
+        "amount": 5,
+        "headless": false,
+        "payout_id": "70f184c1-f061-4c15-bdab-c1c36c08a492",
+        "business_id": "62fd5401-66b0-4d0d-9243-19337889f0c1",
+        "description": "Payout to coffee",
+        "workflow_id": "1040c842-87bc-42e3-b836-1a9f489d51ee",
+        "is_bulk_payout": false,
+        "recipient_bank_code": "058",
+        "recipient_account_number": "0011207385"
+    }
+}
