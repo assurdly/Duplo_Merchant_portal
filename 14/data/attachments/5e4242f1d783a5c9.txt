@@ -1,0 +1,8 @@
+{
+    "approver_id": "983b5289-79b2-4f58-b85a-16d9dc96747e",
+    "approval_id": "c89c3731-2bbd-4baa-a499-4aac70b59447",
+    "business_id": "24b7667c-f43c-4830-ba0e-15f74fd58033",
+    "action": "deny",
+    "deny_reason": "Cant approve",
+    "deny_note": "Worker didnt seek approval before sending"
+}

@@ -1,0 +1,19 @@
+{
+    "x-dns-prefetch-control": "off",
+    "expect-ct": "max-age=0",
+    "x-frame-options": "SAMEORIGIN",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "x-download-options": "noopen",
+    "x-content-type-options": "nosniff",
+    "x-permitted-cross-domain-policies": "none",
+    "referrer-policy": "no-referrer",
+    "x-xss-protection": "0",
+    "vary": "Origin",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Access-Control-Allow-Origin",
+    "content-type": "application/json; charset=utf-8",
+    "X-Cloud-Trace-Context": "d4b6e96d3b84a164cf381c05ab1a9cc7",
+    "Date": "Tue, 27 Feb 2024 17:16:28 GMT",
+    "Server": "Google Frontend",
+    "Content-Length": "119"
+}

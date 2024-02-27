@@ -1,0 +1,1 @@
+{"data":{"pinId":"bd01c12a-fe1f-4f88-a517-c6d2fa217221","msisdn":"2348060968935","verified":false,"attemptsRemaining":2},"errors":{},"message":"OTP is incorrect, you have 2 attempts remaining!"}

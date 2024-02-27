@@ -1,0 +1,1 @@
+{"data":{"incorporation_document":[{"url":null,"name":"scuml_certificate","fileId":"24639349-5aa7-420e-9b3d-510aba615ecd_scuml_certificate.pdf","status":"success"}]},"errors":{},"message":"Request successful"}

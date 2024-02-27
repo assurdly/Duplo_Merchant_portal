@@ -1,0 +1,1 @@
+{"data":{},"errors":{"batch_payout_ref":"Batch payout ref is not allowed to be empty"},"message":"Invalid requests"}

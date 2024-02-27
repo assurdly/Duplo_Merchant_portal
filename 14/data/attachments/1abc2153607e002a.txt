@@ -1,0 +1,5 @@
+{
+    "email": "",
+    "business_id": "5ee496a6-9e71-4ce2-89da-ffd55253d15a",
+    "account_name": "Oluyemi Adam"
+}

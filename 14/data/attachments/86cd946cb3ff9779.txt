@@ -1,0 +1,7 @@
+{
+    "type": "sms",
+    "params": {
+        "receiver": "2349164424742",
+        "message": ""
+    }
+}

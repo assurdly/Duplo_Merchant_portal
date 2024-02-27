@@ -1,0 +1,26 @@
+{
+    "business_id": "24b7667c-f43c-4830-ba0e-15f74fd58033",
+    "any_approver_can_complete": true,
+    "policy_name": "Bills > 50,000 and < 5,000,000",
+    "status": "inactive",
+    "policy_criteria": [
+        {
+            "type_id": "9abca8a9-482d-4df5-bfc5-29ec8935ca74",
+            "data_type": "number_range",
+            "values": [
+                50000,
+                5000000
+            ]
+        }
+    ],
+    "policy_approvers": [
+        {
+            "approver_id": "1040c842-87bc-42e3-b836-1a9f489d51ee",
+            "approver_level": 2
+        },
+        {
+            "approver_id": "d357b516-0a20-4646-8a37-d5d6d4e90018",
+            "approver_level": 1
+        }
+    ]
+}

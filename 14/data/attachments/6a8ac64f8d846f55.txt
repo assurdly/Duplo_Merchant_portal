@@ -1,0 +1,1 @@
+{"data":{},"errors":{"account_number":"Account number length must be 10 characters long","is_settlement_account":"Current settlement account is required"},"message":"Invalid requests"}
