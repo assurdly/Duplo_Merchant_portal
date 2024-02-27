@@ -1,0 +1,1 @@
+{"data":{},"errors":{"alias":"Expense account alias is not allowed to be empty","monthly_budget":"Monthly budget must be a number","allow_payout_when_limit_is_exceeded":"Preference to allow payout when limit is exceeded must be a boolean","business_id":"Business ID is not allowed to be empty"},"message":"Invalid requests"}

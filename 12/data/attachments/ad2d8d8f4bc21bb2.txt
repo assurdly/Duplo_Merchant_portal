@@ -1,0 +1,1 @@
+{"data":{},"errors":{"bvn":"BVN length must be 11 characters long"},"message":"Invalid requests"}
