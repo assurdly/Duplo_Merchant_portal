@@ -1,0 +1,5 @@
+{
+    "email": "oluone@yopmail",
+    "business_id": "5ee496a6-9e71-4ce2-89da-ffd55253",
+    "account_name": "Oluyemi Adam"
+}

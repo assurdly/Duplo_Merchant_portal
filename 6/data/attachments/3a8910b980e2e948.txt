@@ -1,0 +1,10 @@
+{
+    "alias": "Brenden",
+    "managers": [
+        
+        "25b35f1c-2e81-4e2e-8a4e-ec25a400dde0"
+        ],
+    "business_id": "e09a0bc7-c483-4381-8243-404f8ef81536",
+    "monthly_budget": 2000,
+    "allow_payout_when_limit_is_exceeded": true
+}

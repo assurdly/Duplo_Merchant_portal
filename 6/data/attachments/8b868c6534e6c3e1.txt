@@ -1,0 +1,1 @@
+{"data":{"transaction_ref":"tran_yXRVaX4ANVTh"},"errors":{},"message":"Transaction request successful"}

@@ -1,0 +1,9 @@
+{
+    "recipient_account_number": "0773355268",
+    "amount": 100,
+    "recipient_bank_code": "044",
+    "business_id": "a026f3e4-7c77-469e-8415-59fc078abb",
+    "headless": false,
+    "description": "Settlement",
+    "is_fund_request": true
+}

@@ -1,0 +1,17 @@
+{
+    "business_id": "db05315c-f7bb-4acd-84b4-37c395d4e121",
+    "preference_id": "f3775046-8850-4e9d-8910-30747821740a",
+    "email": [
+        "k2industriesyopmailcom"
+    ],
+    "email_report": {
+        "is_enabled": true,
+        "frequency": [
+            "weekly"
+        ],
+        "receivers": [
+            "k2industries@yopmail.com",
+            "k2industries@yopmail.com"
+        ]
+    }
+}

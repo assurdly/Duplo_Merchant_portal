@@ -1,0 +1,10 @@
+{
+    "user_id": "ab354915-52af-4612-97e7-5c4e54a4e376",
+    "merchant_id": "b2fb123f-5bcc-48d6-bdb7-5bb270af6c26",
+    "first_name": "UpdatedFirstName",
+    "last_name": "UpdatedLastName",
+    "phone_number": "09038831458",
+    "role_id": "ab1f8683-0c5e-4eeb-8e6a-640b628529fd",
+    "business_id": "2d67a539-a6e1-484a-b7f5-c24445ec50c1",
+    "show_product_tour": true
+}
