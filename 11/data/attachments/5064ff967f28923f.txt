@@ -1,0 +1,1 @@
+{"data":{},"errors":{},"message":"Cannot destructure property 'payout_records' of '(intermediate value)' as it is null."}

@@ -1,0 +1,1 @@
+{"data":{"pinId":"c0d3582b-e636-4dd7-a900-b974f42e84ca","to":"2348060968935","smsStatus":"Message Sent","status":200},"errors":{},"message":"Successfully sent the OTP"}

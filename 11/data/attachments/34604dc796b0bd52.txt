@@ -1,0 +1,1 @@
+{"data":{},"errors":{"feeStructure":"fees.send_money_fee.feeStructure must be one of [band, fixed, percentage]"},"message":"Invalid requests"}

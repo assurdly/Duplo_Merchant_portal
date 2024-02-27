@@ -1,0 +1,8 @@
+{
+    "email": "patrickuser@yopmail.com",
+    "first_name": "Patrick",
+    "last_name": "User",
+    "merchant_id": "4b4f63f1-01c7-40d3-91f6-3240ca8d57b1",
+    "role_id": "23a2e20a-e0be-449f-88f8-15ec51c17f03",
+    "job_title": "Finance Director"
+}

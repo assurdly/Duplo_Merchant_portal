@@ -1,0 +1,17 @@
+{
+    "type": "single_immediate_payout",
+    "business_id": "891a6c89-a32b-4109-a298-9c9cf3c26b21",
+    "initiator_id": "f49725fe-7696-4e5f-ae26-89c2235c2b97",
+    "data": {
+        "business_id": "891a6c29-a32b-4162-a298-9c9cf3c26b37",
+        "recipient_account_number": "0029846969",
+        "recipient_bank_code": "044",
+        "amount": "100",
+        "description": "Test Invoice",
+        "headless": false,
+        "wallet_ref": "wal_5JSYPijgPVDO",
+        "meta": {},
+        "recipient_bank_name": "Access Bank",
+        "recipient_account_name": "UZOR  PRISCALINE"
+    }
+}

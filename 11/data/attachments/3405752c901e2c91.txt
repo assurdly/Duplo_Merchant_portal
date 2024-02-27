@@ -1,0 +1,17 @@
+{
+    "business_id": "2e595071-59cb-4057-a14b-d49a3c90ef",
+    "first_name": "Jason",
+    "last_name": "Statham",
+    "email": "stat@yopmail.com",
+    "bvn": "13115759875",
+    "phone_number":"",
+    "metadata": "{}",
+    "preferred_banks": [
+        { 
+            "bank_code": "111", 
+            "bank_name": "Wema Bank", 
+            "id": "wema" 
+        }
+    ],
+    "amount": "100"
+}
