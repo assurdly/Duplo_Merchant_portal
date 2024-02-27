@@ -1,0 +1,13 @@
+{
+    "trading_name": "Daniel Stocks",
+    "description": "ipsum lorem docu misome",
+    "company_size": "10 to 50",
+    "category": "Business",
+    "bvn": "9786756480",
+    "nimc": "78909888787",
+    "website": "http://www.example.com",
+    "legal_business_name": "Daniel Stocks",
+    "registration_type": "ipsum",
+    "business_type": "Sport"
+}
+

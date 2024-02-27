@@ -1,0 +1,1 @@
+{"data":{},"errors":{"type":"type is not allowed to be empty"},"message":"Invalid requests"}

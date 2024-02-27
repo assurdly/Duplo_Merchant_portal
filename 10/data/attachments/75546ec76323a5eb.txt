@@ -1,0 +1,14 @@
+{
+    "ClientId": "bae71d36-ff47-420a-b4a6-f8c9ddf41140",
+    "ClientName": "Bank of Dave",
+    "CompanyId": "a1743536-e5e4-40fc-bd12-78a3de28677d",
+    "DataConnectionId": "2e9d2c44-f675-40ba-8049-353bfcb5e171",
+    "RuleId": "70af3071-65d9-4ec3-b3cb-5283e8d55dac",
+    "RuleType": "Data sync completed",
+    "AlertId": "a9367074-b5c3-42c4-9be4-be129f43577e",
+    "Message": "Data has changed for dataset type invoices, company 8a210b68-6988-11ed-a1eb-0242ac120002",
+    "Data": {
+        "dataType": "invoices",
+        "datasetId": "6586f21b-ad4d-4d06-a309-712af47184a2"
+    }
+}

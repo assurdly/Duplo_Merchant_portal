@@ -1,0 +1,20 @@
+{
+    "x-dns-prefetch-control": "off",
+    "expect-ct": "max-age=0",
+    "x-frame-options": "SAMEORIGIN",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "x-download-options": "noopen",
+    "x-content-type-options": "nosniff",
+    "x-permitted-cross-domain-policies": "none",
+    "referrer-policy": "no-referrer",
+    "x-xss-protection": "0",
+    "vary": "Origin",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Access-Control-Allow-Origin",
+    "set-cookie": "dpmlekdno=fe11feea12064e0db48889f479ce38c7%3Arn9f7820f88f983fe804bae4097b5109b5473ca153633adbee27950000b842b3650f05fdfcc95b924cccbe966b2aa37f3294ebeb443584b8493a31215b44d547eb7f5e49a923ad2547ee0962569bf62fd897521eee976a2af1ff3e601322e805209b1515da7a3af69cdc7d33d07cd4381c66104ee04380f8ead37e40aeb2140ca34966f4e283c49d59bdba195ea72fc0e55c6ab488e2efbc35303e63df8aca756acbb7817288fb063611bbe3628f8a62bc47fe0e81d6c6d258244324657bd0cfe00d00098c01a68bb8777f1425f3ca2236f5352fe2bfa37461e68ac2b3f0144b3c420f990b5ae81f159efd76a623f014721da09c8ee0eb7c8bb71329a6d8b9fed0ed5dd6473623d2ec801e83b72c62e820b74a3ba82d9095b508de818308e98ae0130a21c33b2493bcb653cae0b2710e2edb995df0f5b0ee43391149ab48ad869220891d0215ced1089699895429c660930f4a210c4a1faac0e0d3134dbee6cfe95476867d201b2e04da7aaf13d0f6b6d64565066ccfdc02ba899516e56ef3721666feb8bb992cbd534a509742d71d27a2774084a7c7464002338f30daf8da907c6790d7b0b5c4934b87860994b87924140da5ab43ac969f5c04a7f92aac5fdc59210bd9f19efa8298a2cb2e401e88b242abdd04f77d7b25ace7f70f9324bd13ce; Domain=tryduplo.com; Path=/; Expires=Wed, 28 Feb 2024 15:15:16 GMT; HttpOnly; Secure; SameSite=Strict",
+    "content-type": "application/json; charset=utf-8",
+    "X-Cloud-Trace-Context": "b65aa73b09e03be4cabc3ceab80e3ead",
+    "Date": "Tue, 27 Feb 2024 15:15:16 GMT",
+    "Server": "Google Frontend",
+    "Content-Length": "106"
+}

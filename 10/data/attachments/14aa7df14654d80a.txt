@@ -1,0 +1,1 @@
+{"data":{},"errors":{"page":"Page must be a number","business_id":"Business id is not allowed to be empty","start_date":"Start date is not allowed to be empty","end_date":"End date is not allowed to be empty"},"message":"Invalid requests"}
