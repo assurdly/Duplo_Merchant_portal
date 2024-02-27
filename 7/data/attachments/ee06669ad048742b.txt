@@ -1,0 +1,1 @@
+{"data":{},"errors":{"first_name":"Firstname is not allowed to be empty","last_name":"Lastname is not allowed to be empty","email":"Email is not allowed to be empty"},"message":"Invalid requests"}

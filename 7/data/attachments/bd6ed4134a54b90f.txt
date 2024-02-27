@@ -1,0 +1,1 @@
+{"data":{"email":"ereoluwa@yopmail.com","wallet_ref":"wal_gLjYR4mc6FsR","currency":"NGN","available_balance":19100,"ledger_balance":19100,"opening_balance":0,"closing_balance":0},"errors":{},"message":"Request successful"}
