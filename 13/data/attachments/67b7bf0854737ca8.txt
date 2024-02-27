@@ -1,0 +1,94 @@
+{
+    "name": "Emmanuel Custom",
+    "business_id": "63bc836d-28b2-4749-81c2-cb6da655194f",
+    "description": "Created by Emmanuel",
+    "is_custom_role": true,
+    "permissions": [
+        {
+            "name": "overview_page",
+            "description": "Overview page",
+            "is_allowed": true,
+            "allowed_roles": [
+                {
+                    "name": "view_overview_page",
+                    "description": "Can view overview page"
+                }
+            ]
+        },
+        {
+            "name": "business_page",
+            "description": "Business page",
+            "is_allowed": true,
+            "allowed_roles": [
+                 {
+                    "name": "view_business_page",
+                    "description": "Can view business page"
+                }
+            ]
+        },
+        {
+            "name": "transactions_page",
+            "description": "Transactions page",
+            "is_allowed": true,
+            "allowed_roles": [
+                 {
+                    "name": "view_all_transactions",
+                    "description": "Can view all transactions"
+                },
+                 {
+                    "name": "download_transactions",
+                    "description": "Can download transactions"
+                }
+            ]
+        },
+        {
+            "name": "customers_page",
+            "description": "Customers page",
+            "is_allowed": true,
+            "allowed_roles": [
+                 {
+                    "name": "view_all_customers",
+                    "description": "Can view all customers"
+                }
+            ]
+        },
+        {
+            "name": "invoices_page",
+            "description": "Invoices page",
+            "is_allowed": true,
+            "allowed_roles": [
+                {
+                    "name": "view_all_invoices",
+                    "description": "Can view all invoices"
+                },
+                {
+                    "name": "download_invoices",
+                    "description": "Can download invoices"
+                }
+            ]
+        },
+        {
+            "name": "va_page",
+            "description": "Virtual account page",
+            "is_allowed": true,
+            "allowed_roles": [
+                {
+                    "name": "view_all_virtualaccounts",
+                    "description": "Can view virtual accounts"
+                }
+            ]
+        },
+         {
+            "name": "recipients_page",
+            "description": "Recipients page",
+            "is_allowed": true,
+            "allowed_roles": [
+                {
+                    "name": "view_recipients",
+                    "description": "Can view recipients page"
+                }
+            ]
+        }
+    ],
+    "is_active": true
+}

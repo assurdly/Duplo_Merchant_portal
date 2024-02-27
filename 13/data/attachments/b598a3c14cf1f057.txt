@@ -1,0 +1,1 @@
+{"data":{},"errors":{},"message":"Unknown bank code: 56"}

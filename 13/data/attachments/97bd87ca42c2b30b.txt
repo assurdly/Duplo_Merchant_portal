@@ -1,0 +1,1 @@
+{"data":{},"errors":{"receiver_ref":"Receiver reference is not allowed to be empty"},"message":"Invalid requests"}

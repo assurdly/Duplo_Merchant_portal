@@ -1,0 +1,1 @@
+{"data":{"account_number":"1754054985","account_name":"VICTOR OLUWATOSIN ALADE","bank_id":82},"errors":{},"message":"Request successful"}

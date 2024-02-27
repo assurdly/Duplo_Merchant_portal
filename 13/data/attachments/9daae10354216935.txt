@@ -1,0 +1,1 @@
+{"data":{},"errors":{"frequency":"Frequency is not allowed to be empty"},"message":"Invalid requests"}

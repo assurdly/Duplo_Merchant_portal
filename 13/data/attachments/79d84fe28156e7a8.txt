@@ -1,0 +1,29 @@
+{
+    "business_id": "1cdb19eb-9d26-4968-b142-116b030a4687",
+    "invoice_id": "9f646303-c634-4f24-8d62-162a64d414dd",
+    "invoice_number": "27382563044",
+    "recipient": "cus_v54QIVk43ecy",
+    "title": "Another Tesst",
+    "status": "invoice",
+    "due_date": "Wed Apr 17 2024 16:43:25 GMT+0000 (Coordinated Universal Time)",
+    "items": [
+            {
+                "name": "edited sample name",
+                "total": 7510.5,
+                "quantity": 15,
+                "unit_price": 500.7
+            },
+            {
+                "name": "edited sample name 2",
+                "total": 3118.6,
+                "quantity": 31,
+                "unit_price": 100.6
+            },
+            {
+                "name": "edited sample name 3",
+                "total": 600.6,
+                "quantity": 2,
+                "unit_price": 20
+            }
+        ]
+}

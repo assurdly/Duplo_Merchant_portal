@@ -1,0 +1,1 @@
+{"data":{},"errors":{"receiver":"Receiver phone number parameter is not allowed to be empty"},"message":"Invalid requests"}

@@ -1,0 +1,19 @@
+{
+    "email": "",
+    "first_name": "Jane",
+    "last_name": "Ade",
+    "business_id": "8d102858-2c8b-413d-8a60-e6d3d3b2bac6",
+    "is_permanent": true,
+    "single_use": false,
+    "is_for_funding": true,
+    "purpose": "funding Business wallet",
+    "category": "fund_bank",
+    "preferred_banks": [
+        {
+            "bank_code": "111",
+            "bank_name": "Wema Bank",
+            "id": "wema"
+        }
+    ],
+    "provider": "wema"
+}
