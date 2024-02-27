@@ -1,0 +1,7 @@
+{
+    "webhook_url": "http://54.155.224.157/api/webhook/duplo/inward-bank-transfer",
+    "callback_url": "http://54.155.224.157/api/webhook/duplo/inward-bank-transfer",
+    "verify_hash": "dp_live_b8fd9f3f397e01b225c0c76c99fa87cacd0a8c0c52f66f84dfa32089472ceac86f3be8d54bdf8906888397687b16bddf8c63fad06f184f4a6c1285744c3528aee8c4dfa12dca235e366efacbc1df1a022bd130fdafa5802ab8a4d9d0e4a1c1a06d5b34163c740e2b8a692e64b7d15dc07e4c73e8ce2e0f2fce3348d3112ba20e",
+    "business_id": "83bb7dff-e004-47a5-93fa-26be5677e5a6",
+    "services": ["virtual-account"]
+}

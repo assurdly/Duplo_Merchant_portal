@@ -1,0 +1,7 @@
+{
+    "business_id": "82ae4a75-1824-43be-82a5-06d544d3c3e",
+    "bank_name": "One Finance",
+    "bank_code": "101",
+    "account_name": "Victor Oluwatosin Alade",
+    "account_number": "5400764521"
+}
