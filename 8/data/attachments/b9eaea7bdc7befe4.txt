@@ -1,0 +1,25 @@
+{
+    "type": "",
+    "bank_code": "058",
+    "account_name": "Adetunji Bodunde",
+    "account_number": "0150237720",
+    "email": "bodunde28@yopmail.com",
+    "business_id": "7ecc0b08-50f4-49f0-8ea3-6e98ba27f0fd",
+    "company_name": "Bhord Limited",
+    "primary_contact": "Ben Carty",
+    "phone_number": "08068487823",
+    "billing_address": {
+        "country": "Nigeria",
+        "city": "Lagos",
+        "state": "Lagos",
+        "address": "Lekki Lagos"
+    },
+     "shipping_address": {
+        "country": "Nigeria",
+        "city": "Abeokuta",
+        "state": "Ogun",
+        "address": "Ibarra Ogun state"
+    },
+    "tax_identification_number": "0198384484848494939",
+    "rc_number": "89266374"
+}

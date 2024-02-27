@@ -1,0 +1,21 @@
+{
+    "content-security-policy": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    "x-dns-prefetch-control": "off",
+    "expect-ct": "max-age=0",
+    "x-frame-options": "SAMEORIGIN",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "x-download-options": "noopen",
+    "x-content-type-options": "nosniff",
+    "x-permitted-cross-domain-policies": "none",
+    "referrer-policy": "no-referrer",
+    "x-xss-protection": "0",
+    "vary": "Origin",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Access-Control-Allow-Origin",
+    "set-cookie": "dpmlekdno=5c54616ed10cf63a82946454e7ac619a%3Arn5ee5a1ebfb374aad1c53a34ee2db7b61b11b3b8b841798b21849139095b4f3e8291f72bc832aa11a43cd70199fa923bded8d8350b2c1b04586d6fae05a0f4415ada3be63ec4f5aeed107de429b39123fa6d1d7d4e0fc51bc3015a96a50e948dd0c88795d57111b395f879be3fd65b27a04e78a6d6e047c2092212a9b1684e2eba8eda5642c78db4496a5842fff4540d515bab5c753aaa0b20c5886b70d2ada1779862f7b43eeec33382381b43496ee35707404547af5263e5e40b3838b77b8d6c12b6ded5dc2a38b7b855e5bfa3b153175b47303ec72b7f8b454ef47e8e028e2c57c647b66f8f0df5f75e31a50200418a9543bd5a246ca91199198fc1411af7693c016ac37860f87cb21573baa6c963c777cb409ada6d1db0c4a41159239da4a79da932add3093ce07327283d85ee02c2f4c97d99a8750f2c92dfe73c1d0cf60364da1011efc5ccf5f657feb274ce86ec4311a02f73ebe8f7141f66cbc0ba08a21da2f9aa15cb133f1d4d9e059fc014e1be55b99bbf07f53aef06bd957f02646ccc18891576b16fe0cc7bc770b87ef111eec080134f847752dea6ad886d58480f11ee5af6415a43ffe81b7712cb47651c5ba31aeb6496d5cea23517125a27daf05ff985b8d930f668f12b581c9ac87d61b7f8c7dac955fca6a08ceb096c67846; Domain=tryduplo.com; Path=/; Expires=Wed, 28 Feb 2024 14:46:11 GMT; HttpOnly; Secure; SameSite=Strict",
+    "content-type": "application/json; charset=utf-8",
+    "x-cloud-trace-context": "1b801a8d8b8fb56b0e75b628d3326e67",
+    "Date": "Tue, 27 Feb 2024 14:46:11 GMT",
+    "Server": "Google Frontend",
+    "Content-Length": "69"
+}
