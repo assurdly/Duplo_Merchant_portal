@@ -1,0 +1,12 @@
+{
+    "first_name": "Jessey",
+    "last_name": "Johne",
+    "email": "jesseyjones@yopmail.com",
+    "phone_number": "9099889000",
+    "dial_code": "+234",
+    "password": "Test123457",
+    "confirm_password": "Test123457",
+    "trading_name": "Go gold int'l",
+    "is_business_registered": false,
+    "account_process_management": "manually"
+}

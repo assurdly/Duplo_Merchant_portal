@@ -1,0 +1,8 @@
+{
+  "business_id":"2d67a539-a6e1-484a-b7f5-c24445ec50c1",
+  "vendor_ref": "rec_RZBYh9aAQVVU",
+  "invoice_number": "901893454",
+  "is_approved": true,
+  "note": "All good",
+  "reason": ""
+}

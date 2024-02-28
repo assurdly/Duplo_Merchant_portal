@@ -1,0 +1,7 @@
+{
+    "business_id": "a026f3e4-7c77-469e-8415-59fc078abb03",
+    "bank_name": "Access bank",
+    "bank_code": "044",
+    "account_name": "Priscaline Uzor",
+    "account_number": "002984696"
+}

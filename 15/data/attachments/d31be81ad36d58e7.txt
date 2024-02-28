@@ -1,0 +1,1 @@
+{"data":{},"errors":{},"message":"Request successful, Funds transferred from customer wallet(s) to business wallet"}
