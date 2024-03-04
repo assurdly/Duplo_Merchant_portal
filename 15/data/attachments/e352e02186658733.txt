@@ -1,0 +1,13 @@
+{
+    "trading_name": "Daniel Wears",
+    "description": "ipsum lorem docu misome",
+    "company_size": "10 to 50",
+    "category": "Business",
+    "bvn": "97867564540",
+    "nimc": "00667755456",
+    "website": "http://www.example.com",
+    "legal_business_name": "Mr Biggs",
+    "registration_type": "ipsum",
+    "business_type": "Sport"
+}
+

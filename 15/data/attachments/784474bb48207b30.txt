@@ -1,0 +1,1 @@
+{"data":{},"errors":{"email":"params.receiver_email[0].email is not allowed to be empty","receiver_email":"Receiver email parameter does not contain [Email object of receiver email parameter]"},"message":"Invalid requests"}

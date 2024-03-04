@@ -1,0 +1,16 @@
+{
+    "business_id": "ab63b59f-c894-4669-b9bb-f6eeeedbbedd",
+    "batch_payout_ref": "bat_pay_KgzSe6tTLKcE",
+    "recipients_json_data": [
+        {
+            "bank_code": "058",
+            "account_name": "ADETUNJI BODUNDE",
+            "account_number": "0117170332",
+            "email": "bhord5@yopmail.com",
+            "payout_id": "59faa615-a5bb-4bc4-ada9-540d91c847d1",
+            "amount": "",
+            "date": "2024-08-09"
+        }
+    ],
+    "headless": false
+}

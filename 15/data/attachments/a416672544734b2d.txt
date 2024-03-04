@@ -1,0 +1,7 @@
+{
+    "business_id": "5ee496a6-9e71-4ce2-89da-ffd55253d15a",
+    "first_name": "Modrich",
+    "last_name": "Patri",
+    "email": "modptr@yopmail.com",
+    "phone_number": "08085479948"
+}

@@ -1,0 +1,1 @@
+{"data":{},"errors":{"business_id":"Business id must be a valid GUID","is_settlement_account":"Current settlement account is required"},"message":"Invalid requests"}

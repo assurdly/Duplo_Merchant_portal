@@ -1,0 +1,4 @@
+{
+    "business_id": "8ed10fcc-1e1c-4ad1-9ed8-e870d6543349",
+    "document_alias": "certificate_of_incorporation"
+}

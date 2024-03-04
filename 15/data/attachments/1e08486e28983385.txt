@@ -1,0 +1,1 @@
+{"data":{},"errors":{},"message":"Bank currently not available, please try again"}

@@ -1,0 +1,7 @@
+{
+    "amount": "1",
+    "sender_ref": "wal_SiyZo0bSUNlj",
+    "receiver_ref": "wal_SiyZo0bSUNlj",
+    "description": "Repayment",
+    "business_id": ""
+}
