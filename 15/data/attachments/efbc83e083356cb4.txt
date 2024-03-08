@@ -1,0 +1,9 @@
+{
+    "first_name": "Gladys",
+    "last_name": "Greenholt",
+    "email": "Maudie0@yahoo.com",
+    "phone_number": "08052290968",
+    "business_id": "8ed10fcc-1e1c-4ad1-9ed8-e870d6543349",
+    "bvn": "",
+    "expand": true
+}

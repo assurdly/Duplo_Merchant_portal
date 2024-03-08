@@ -1,0 +1,19 @@
+{
+    "email": "mandysinghyopmail.com",
+    "first_name": "Mandy",
+    "last_name": "Singh",
+    "business_id": "891a6c29-a32b-4162-a298-9c9cf3c26b37",
+    "is_permanent": true,
+    "single_use": false,
+    "is_for_funding": true,
+    "purpose": "funding Business wallet",
+    "category": "fund_bank",
+    "preferred_banks": [
+        {
+            "bank_code": "111",
+            "bank_name": "Wema Bank",
+            "id": "wema"
+        }
+    ],
+    "provider": "wema"
+}

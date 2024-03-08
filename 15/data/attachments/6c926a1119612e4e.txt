@@ -1,0 +1,1 @@
+{"data":{},"errors":{"industry_id":"industry id is required"},"message":"Invalid requests"}

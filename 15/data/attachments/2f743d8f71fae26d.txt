@@ -1,0 +1,1 @@
+{"data":{"business_industries":[{"id":"3d04ec84-983e-47b2-a576-e549e8c2ab96","type":"sole proprietorship"},{"id":"66ca2324-7e03-49ee-9588-681758c5410c","type":"limited liability"}]},"errors":{},"message":"Request successful"}

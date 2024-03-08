@@ -1,0 +1,1 @@
+{"statusCode":400,"message":["payment_date should not be empty","payment_date must be a valid ISO 8601 date string"],"error":"Bad Request"}

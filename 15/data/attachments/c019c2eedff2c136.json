@@ -1,0 +1,23 @@
+{
+    "content-security-policy": "default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests",
+    "x-dns-prefetch-control": "off",
+    "expect-ct": "max-age=0",
+    "x-frame-options": "SAMEORIGIN",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "x-download-options": "noopen",
+    "x-content-type-options": "nosniff",
+    "x-permitted-cross-domain-policies": "none",
+    "referrer-policy": "no-referrer",
+    "x-xss-protection": "0",
+    "vary": "Origin",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "Access-Control-Allow-Origin",
+    "set-cookie": "dpmlekdno=005a530b6a0244f62e77926d48877197%3Arn7739ca3a44db5c4312bc442a5fcbec51bee1f9879549083e852d1d7083163b2a2bcc985b7615abb320c13a127959c9b7d0df3292e1b7801f37cfd44d430923c1586ec1372cb64bce481aa2c9f3abd8e34f21eee7026e04384e214e288ec220e68af9392ba4e8cab53a3382e0e4d3f95daf0735aa2a8ff0064f276282f3fde1d7893e8db012e98ab82185722e1b4afcd75fe84551fc54950f6e9777f31e43866b97e4be5514459e61392eb0676329be223f1d4457426c18804fa08d2a201ef18b999215907a1b7b48270a48b33b9d6b1700ed66d7b8c6dde9dfdeb37bb8c268204ebb85e44513ba54fb0f9fee31967366e838ec40f838764f21c3aee123dd7387438675f22d0dd989d6ddf8e4a35d4216d66f2c92045a8ddc6719c5aa66a0acec8b8e2df357d865793b625a64ff6615d7f6775b143cbbd559264e6afbfd84fcede5b3a1e95753348da457ae0a466c56254993e3c7bbe5d59afc5eaa671c5972fd96307c441351a550c82a79534da857274e4eda22fe9442ad1ab2f4221f2ec92f1e3304497c3b568fe7cdfd592e95322cfd56faee7e328c96faf7250b70dd95b271ae0ea19873606cd23b99a00c20de0833eb66d49e2797783a810efa76d7bab3b5f80336a646bf62483ef5c8e231f62a187642e7bcb808d15c214e83f7662884; Domain=tryduplo.com; Path=/; Expires=Sat, 09 Mar 2024 14:08:08 GMT; HttpOnly; Secure; SameSite=Strict",
+    "content-type": "application/json; charset=utf-8",
+    "x-cloud-trace-context": "f3e1b3967322a6d805f88b93671daf5e",
+    "expires": "Fri, 08 Mar 2024 14:08:08 GMT",
+    "cache-control": "private",
+    "Date": "Fri, 08 Mar 2024 14:08:08 GMT",
+    "Server": "Google Frontend",
+    "Content-Length": "1329"
+}

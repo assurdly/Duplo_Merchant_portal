@@ -1,0 +1,7 @@
+{
+    "business_id": "0f639365-554b-4788-ad71-dcd8fa67acc4",
+    "email": "ereoluwa@yopmail.com",
+    "confirm_password": "Test1234",
+    "password": "Test123",
+    "new_password": "Test1234"
+}

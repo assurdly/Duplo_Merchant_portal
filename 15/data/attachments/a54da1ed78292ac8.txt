@@ -1,0 +1,18 @@
+{
+    "initiator_id": "1040c842-87bc-42e3-b836-1a9f489d51ee",
+    "type": "scheduled_payout",
+    "business_id": "24b7667c-f43c-4830-ba0e-15f74fd58033",
+    "data": {
+        "business_id": "63e1a1aa-c4cf-4157-8a7c-608925ed0913",
+        "recipient_ref": "rec_b45awQXzPL9A",
+        "amount": 10,
+        "duration": 1,
+        "start_date": "2023-02-25T00:00:00.000Z",
+        "frequency": "once",
+        "meta": {
+            "truck_no": "1120",
+            "purchase_no": "402001"
+        },
+        "payout_id": "c0803e53-527f-4693-adc1-b07d5f615083"
+    }
+}
