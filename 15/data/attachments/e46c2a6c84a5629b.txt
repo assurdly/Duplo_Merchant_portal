@@ -1,0 +1,25 @@
+{
+    "type": "vendor",
+    "bank_code": "058",
+    "account_name": "Ibezim Chimezie Victor",
+    "account_number": "0051346198",
+    "email": "Zack@yopmail.com",
+    "business_id": "0f639365-554b-4788-ad71-dcd8fa67acc4",
+    "company_name": "Prosacco Limited",
+    "primary_contact": "DudleyKreiger",
+    "phone_number": "08018954648",
+    "billing_address": {
+        "country": "Nigeria",
+        "city": "Lagos",
+        "state": "Lagos",
+        "address": "Lekki Lagos"
+    },
+     "shipping_address": {
+        "country": "Nigeria",
+        "city": "Abeokuta",
+        "state": "Ogun",
+        "address": "Ibarra Ogun state"
+    },
+    "tax_identification_number": "0198384484848494939",
+    "rc_number": "89266374"
+}

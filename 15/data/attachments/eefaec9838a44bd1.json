@@ -1,0 +1,14 @@
+{
+    "business": "{{business}}",
+    "dpmlekdno": "swwwmewje4t343643",
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.37.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "9c15480f-7823-4748-81f4-477a202f25e9",
+    "Host": "app-api.staging.tryduplo.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "191",
+    "Cookie": "dpmlekdno=ae77efdda0ea47f912c4446e11a53599%3Arn5c6f9276c95e37b65a2d7993e746a4901ace2047f61f9fdc780541f89471280da0f747eb0a471c0bdf6a4a5a4ab34cd845c4ed280e49659f939065b8ed955c3ba07af7c4a5cb3bd7bec0d3c155c5c3319d403f8e6da051bbd27023c012b1273f55a7df99a1d1db9b095c3e8c8d8feecdc2e1f975ff1e0a21c014bdfe83c7ad860ed7de942db732911de87790b6a384a64308c621090c5282ad54e58b63c0e5ef21cb86b1c61cf1cc8c49ba4169dd3d99dc31ae5f2028f7e4450c9ebe246ab4c73ec46e10faef41d7be05339f462da34bdd66838aac9b01511a4b5670985dfb3cbc6ba7f9e7898436157dbaef7f38ecc629cee50b1e0d0e9f4fb60c746a2aa018e65480e03c774920f206c8d99565a4654f7d26a514f66588b9a380c4b4713970ae79a835e190ba2cbd0270e50ed61fc79340ddfcf0b5b524498af5db1290cd6335253f2251fea75bed45e728cb9b9ea1f7a916cc29a1560b4b996a48cb5df306b3a7767af61ce04e55cc7557c1c137cddc7a08d1a4bdf852e581a6eb5d3f5deac8f1e99a36d467ee446b5428aed1e7918c94a4cc9f57153497288c0a91e4f8e4f583148ee6a379bba216f41f13037289c536fd811171fda3f64cff1ba593a4e0eb1e2a116453d57e80ae35eeb0937f5bc8f753dd33ecbe742f96a0ea09e6f748"
+}

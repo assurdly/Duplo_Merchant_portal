@@ -1,0 +1,15 @@
+{
+    "business_id": "0f639365-554b-4788-ad71-dcd8fa67acc4", 
+    "first_name": "Mayokun",
+    "last_name": "Adeboye",
+    "phone_number": "08115279155",
+    "email": "mayo@yopmail.com",
+    "bvn": "29301704655",
+    "is_permanent": false,
+    "account_prefix": true,
+    "fallback_bank": true,
+    "single_use": true,
+    "purpose": "Checks",
+    "amount": "100",
+    "metadata": "{'invoice_id': '1000234'}"
+}

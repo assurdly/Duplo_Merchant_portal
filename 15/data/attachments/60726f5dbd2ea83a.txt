@@ -1,0 +1,13 @@
+{
+    "trading_name": "bandwidth",
+    "description": "ipsum lorem docu misome",
+    "company_size": "10 to 50",
+    "category": "Business",
+    "bvn": "97867564549",
+    "nimc": "8988770066556",
+    "website": "http://www.example.com",
+    "legal_business_name": "schemas",
+    "registration_type": "ipsum",
+    "business_type": "Sport"
+}
+

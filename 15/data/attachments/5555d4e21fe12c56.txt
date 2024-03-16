@@ -1,0 +1,9 @@
+{
+    "business_id": "978f8398-cbfa-42b2-9ae3-6bb4c70205dc",
+    "recipient_ref": "null",
+    "recipient_account_number": "0029846969",
+    "amount": "200",
+    "start_date": "",
+    "frequency": "monthly",
+    "duration": 1
+}

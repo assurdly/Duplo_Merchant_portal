@@ -1,0 +1,1 @@
+{"data":{},"errors":{},"message":"A business with this trading or legal name has been added previously"}
