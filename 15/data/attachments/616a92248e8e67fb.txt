@@ -1,0 +1,9 @@
+{
+    "alias": "Kylie",
+    "managers": [
+        
+    ],
+    "business_id": "5a9e53ce-b056-4444-8c08-108ec15ecdba",
+    "monthly_budget": 3000,
+    "allow_payout_when_limit_is_exceeded": true
+}

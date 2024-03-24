@@ -1,0 +1,1 @@
+{"data":[{"ledger_balance":10000,"available_balance":10000,"_id":"65fc4e64015856000d18cca2","wallet_ref":"wal_Yhg7AzO99vmf","expense_account_name":"Main Business Account"}],"errors":{},"message":"Expense accounts summary fetched successfully"}

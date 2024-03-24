@@ -1,0 +1,7 @@
+{
+    "amount": "1",
+    "sender_ref": "null",
+    "receiver_ref": "null",
+    "description": "Repayment",
+    "business_id": ""
+}

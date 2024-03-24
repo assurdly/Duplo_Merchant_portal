@@ -1,0 +1,53 @@
+{
+    "business_id": "5a9e53ce-b056-4444-8c08-108ec15ecdba",
+    "email": [
+        "ereoluwa@yopmail.com"
+    ],
+    "email_report": {
+        "is_enabled": true,
+        "frequency": [
+            "daily",
+            "weekly"
+        ],
+        "receivers": [
+            "ereoluwa@yopmail.com",
+            "ereoluwa@yopmail.com"
+        ]
+    },
+    "invoice_reminders": {
+        "is_enabled": true
+    },
+    "widthdraw_to_master_wallet": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "va_inflow": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "single_use_va_inflow": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "send_money": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "wallet_created": {
+        "email": true,
+        "sms": false,
+        "push_notification": false
+    },
+    "payout_otp": {
+        "is_enabled": true,
+        "phone_number": "08060968935",
+        "email": {
+            "is_enabled": true,
+            "email": "ereoluwa@yopmail.com"
+        }
+    }
+}

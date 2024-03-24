@@ -1,0 +1,1 @@
+{"data":{},"errors":{"new_password":"newPassword is not allowed to be empty","confirm_password":"Confirm new password must be [ref:new_password]"},"message":"Invalid requests"}

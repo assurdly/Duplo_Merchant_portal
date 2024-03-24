@@ -1,0 +1,12 @@
+{
+    "payout_id": "e6778094-02f2-45de-9d5a-5401d40d9b69",
+    "amount": "89",
+    "bank_code": "063",
+    "account_number": "0029846969",
+    "account_name": "Priscaline Uzor",
+    "email": "cpm@yopmail.com",
+    "date": "2024-03-05T00:00:00+01:00",
+    "business_id": "0f639365-554b-4788-ad71-dcd8fa67acc4",
+    "description": "for payout",
+    "timezone": "Africa/Lagos"
+}

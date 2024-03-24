@@ -1,0 +1,7 @@
+{
+    "amount": 1,
+    "sender_ref": "wal_gLjYR4mc6FsR",
+    "receiver_ref": "null",
+    "description": "Debt repayment",
+    "business_id": "5a9e53ce-b056-4444-8c08-108ec15ecdba"
+}

@@ -1,0 +1,8 @@
+{
+    "business_id": "5a9e53ce-b056-4444-8c08-108ec15ecdba",
+   "recipient_account_number": "0029846969",
+    "amount": 291,
+    "start_date": "2024-11-29",
+    "frequency": "monthly",
+    "duration": 1
+}

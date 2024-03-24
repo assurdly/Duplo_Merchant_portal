@@ -1,0 +1,1 @@
+{"data":{"id":"04ea302b-c2c5-42b9-a0f9-a3b91a44ca4b","bank_name":"Access Bank","bank_code":"044","account_number":"0773355268","account_name":"Priscaline Uzor","created_at":"2024-03-24T19:20:50.258Z","update_at":"2024-03-24T19:20:52.085Z","business_id":"db05315c-f7bb-4acd-84b4-37c395d4e121","is_settlement_account":true},"errors":{},"message":"Request successful"}

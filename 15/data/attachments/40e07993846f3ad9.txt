@@ -1,0 +1,1 @@
+{"data":{},"errors":{},"message":"Kindly configure payout otp on preference to proceed"}

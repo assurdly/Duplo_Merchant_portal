@@ -1,0 +1,17 @@
+{
+    "business_id": "5a9e53ce-b056-4444-8c08-108ec15ecdba",
+    "first_name": "Borer",
+    "last_name": "Verna",
+    "email": "js@yopmail.com",
+    "bvn": "13115759875",
+    "phone_number":"08010940168",
+    "metadata": "{}",
+    "preferred_banks": [
+        { 
+            "bank_code": "111", 
+            "bank_name": "Wema Bank", 
+            "id": "wema" 
+        }
+    ],
+    "amount": "100"
+}
